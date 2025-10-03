@@ -1,0 +1,103 @@
+---
+title: "Meet the team"
+page-layout: full
+---
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
+![](img/avatars/stefanocoretta.png){.avatar}
+
+**Stefano Coretta**\
+Chief Editor\
+[{{< iconify solar home-bold-duotone >}}](https://stefanocoretta.github.io) [{{< iconify academicons orcid >}}](https://orcid.org/0000-0001-9627-5532)
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} University of Edinburgh (UK)]{.badge .rounded-pill .bg-primary} [phonetology]{.badge .rounded-pill .bg-success} [phonology]{.badge .rounded-pill .bg-success} [phonetics]{.badge .rounded-pill .bg-success} [speech science]{.badge .rounded-pill .bg-success} [Bayesian statistics]{.badge .rounded-pill .bg-success}
+
+Bio
+
+::: {.callout-note collapse="true"}
+## Positionality
+
+Test
+:::
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
+**Amr El-Zawawy**\
+Associate Editor
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} Alexandria University (Egypt)]{.badge .rounded-pill .bg-primary}
+
+Amr M. El-Zawawy is Professor of Linguistics and Translation in the Department of English of Alexandria University, Egypt, having obtained his MA and PhD from the same institution. He also held distinguished positions such as chairman of the English Dept., Faculty of Education, Alexandria University and Vice-Dean, Pharos University in Alexandria. His research focus is simultaneous interpretation, cognitive and contrastive linguistics, literary translation, and syntax and semantics. His recent publications include the books Studies in Contrastive Linguistics and Stylistics (2016) and Exploring the Cognitive Processes of Simultaneous Interpreting (2019), and Issues in English-Arabic-English Translation (2023), among another five books and translations as well as over twenty articles in high-ranking international journals.
+
+::: {.callout-note collapse="true"}
+## Positionality
+
+As a scholar situated within the Egyptian academic context, Amr M. El-Zawawy brings to his work a perspective deeply shaped by his training and professional experience in linguistics, translation, and interpreting at Alexandria University. His positionality is grounded in the intersection of English and Arabic linguistic traditions, reflecting both the global significance of English as a lingua franca and the cultural, historical, and intellectual depth of Arabic as his native language and primary field of inquiry.
+
+Coming from a Middle Eastern and Arab educational environment, El-Zawawy is attentive to the ways in which sociocultural, cognitive, and linguistic factors influence translation and interpreting practices. His research interests in lie detection, forensic linguistics, cognitive processes of simultaneous interpreting, contrastive linguistics, and stylistics reflect not only an academic pursuit of knowledge but also a practical concern with bridging communication across cultural and linguistic boundaries.
+
+As a bilingual and bicultural academic, his standpoint inevitably shapes the kinds of questions he asks, the methodologies he privileges, and the interpretive frameworks he employs. His focus on English–Arabic–English dynamics highlights a commitment to understanding both the universal cognitive mechanisms of language processing and the unique challenges posed by working between two typologically and culturally distinct languages.
+
+At the same time, El-Zawawy’s positionality is marked by his engagement with international scholarship. Publishing in English and engaging with global debates in translation studies, he positions himself as both a participant in and a mediator of cross-cultural academic dialogue. This dual orientation—local and global—allows him to critique and enrich existing theories while ensuring that the complexities of Arabic linguistic and cultural realities are represented in wider scholarly conversations.
+
+In sum, his positionality can be characterized as that of a linguist and translation scholar working at the crossroads of East and West, whose academic trajectory is shaped by both cultural embeddedness and international engagement, and whose research embodies the dual aim of theoretical contribution and practical applicability in the fields of translation and interpreting.
+:::
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
+![](img/avatars/jesshampton.jpg){.avatar}
+
+**Jessica Hampton**\
+Chief Editor
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} University of Liverpool (UK)]{.badge .rounded-pill .bg-primary}
+
+Bio
+
+::: {.callout-note collapse="true"}
+## Positionality
+
+Test
+:::
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
+![](img/avatars/mariamgobir.png){.avatar}
+
+**Mariam Olugbodi**\
+Associate Editor
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} Kwara State University (Nigeria)]{.badge .rounded-pill .bg-primary} [phonetics]{.badge .rounded-pill .bg-success} [psycholinguistics]{.badge .rounded-pill .bg-success}
+
+Mariam Olugbodi is a tenured Assistant Professor of Phonetics and Psycholinguistics at Kwara State University, Nigeria, teaching L2 speech variation as well as speech comprehension and production, at the Department of English and Linguistics, and Communications in English at the Centre for General Studies. She obtained a PhD in Phonetics 2024 from the University of Ilorin focusing on Occupational and Geographical Variations in English Language Accents in Nigeria.
+
+::: {.callout-note collapse="true"}
+## Positionality
+
+Mariam Olugbodi is a tenured Assistant Professor at a university with a predominantly African students’ body and faculty. She is a former private school teacher with fourteen years of experience in a diverse classroom (K-Grade, technical college and higher education). Her doctoral research was conducted in 12 states across the geopolitical zones in Nigeria, with her other collaborative researches conducted in Ghana on Ghanaian newscasters. Mariam currently teaches English as a Foreign Language to higher education students and young adults in Gaza Strip under the ACADEMICS4GAZA initiative. Most of the her classes here are taught through the Mobile-Assisted English Language Pedagogy. She does this as a volunteer English language teacher at least 4 hours a week in addition to attending school full time.
+
+Mariam is fluent in English and has some ability to communicate in Arabic. Her background in Arabic stems from her enrolment in Arabic school. Her knowledge of Arabic is further enhanced having worked with learners from the Gaza community who are fluent in Arabic and have some ability to communicate in the language, however, when interacting with students new to English, she relies on translation tools to help ensure clear communication. Her research interests are informed by a commitment to recognizing language diversity.
+:::
+::::
+::::::
