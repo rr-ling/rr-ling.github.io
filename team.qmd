@@ -81,6 +81,24 @@ Test
 
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
+![](img/avatars/CristinaLastresLopez.jpg){.avatar}
+
+**Cristina Lastres-López**\
+Associate Editor
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} University of Seville (Spain)]{.badge .rounded-pill .bg-primary}
+
+I am an Associate Professor in English Language and Linguistics at the University of Seville (Spain). I am also affiliated at the research unit for Variation, Linguistic Change and Grammaticalization at the University of Santiago de Compostela (Spain). I hold a PhD in English Linguistics (2020, Extraordinary PhD Award; supervisor: Prof. Teresa Fanego) from the University of Santiago de Compostela, as well as a BA in English Language and Literature (2015) from the same institution and an MA in English Linguistics (2016) from University College London.  I carry out research in the fields of corpus linguistics, discourse analysis, pragmatics, syntax and contrastive linguistics (working mainly on English, French and Spanish). Between 2016 and 2019, I served on the Executive Board of the Spanish Association for Early-Career Researchers in Linguistics (Asociación de Jóvenes Lingüistas) and was also on the Editorial Board of its online journal Estudios Interlingüísticos. From 2018 to 2019 I served as President of the association and as the journal's Editor-in-Chief.
+
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
 ![](img/avatars/mariamgobir.png){.avatar}
 
 **Mariam Olugbodi**\
