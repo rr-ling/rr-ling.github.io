@@ -15,12 +15,12 @@ Chief Editor\
 :::: g-col-8
 [{{< iconify solar earth-bold-duotone >}} University of Edinburgh (UK)]{.badge .rounded-pill .bg-primary} [phonetology]{.badge .rounded-pill .bg-success} [phonology]{.badge .rounded-pill .bg-success} [phonetics]{.badge .rounded-pill .bg-success} [speech science]{.badge .rounded-pill .bg-success} [Bayesian statistics]{.badge .rounded-pill .bg-success}
 
-Bio
+I am a Lecturer (= Assistant Professor) in the Linguistics and English Language department of the University of Edinburgh (UK). I take care of the quantitative methods and statistics provision in the department, by developing and delivering a series of courses and workshops. My main research expertise spans different areas of phonetology (phonology, phonetics and speech), both from a synchronic and diachronic perspective. I also work on other areas within linguistics, like language description and biolinguistic diversity. I am a strong advocate of Open Research practices, with a special interest in Bayesian approaches to quantitative methods.
 
 ::: {.callout-note collapse="true"}
 ## Positionality
 
-Test
+I identify as a neurodiverse academic of Mediterranean ethnicity. I was born and raised in Italy, but I have been living in the United Kingdom for a decade and I think of this country as my home. My philosophical stance is based on a syncretic synthesis of holistic monism, anti-realism, idealism, panpsychism and Bayesian epistemology. I reject positivism and its degenerate development, scientism. I am a practicing pagan with a strong natural and elemental basis. I am an active advocate of Open Research practices for a more transparent, well-grounded and reflexive scholarship.
 :::
 ::::
 ::::::
