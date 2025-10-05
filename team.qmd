@@ -99,6 +99,21 @@ I am an Associate Professor in English Language and Linguistics at the Universit
 
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
+
+**Danang Satria Nugraha**\
+Associate Editor
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} Palacký University Olomouc (Czech Republic)]{.badge .rounded-pill .bg-primary}
+
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
 ![](img/avatars/mariamgobir.png){.avatar}
 
 **Mariam Olugbodi**\
@@ -117,5 +132,22 @@ Mariam Olugbodi is a tenured Assistant Professor at a university with a predomin
 
 Mariam is fluent in English and has some ability to communicate in Arabic. Her background in Arabic stems from her enrolment in Arabic school. Her knowledge of Arabic is further enhanced having worked with learners from the Gaza community who are fluent in Arabic and have some ability to communicate in the language, however, when interacting with students new to English, she relies on translation tools to help ensure clear communication. Her research interests are informed by a commitment to recognizing language diversity.
 :::
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
+
+**Francesco Perono Cacciafoco**\
+Associate Editor
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} Xi'an Jiaotong-Liverpool University (China)]{.badge .rounded-pill .bg-primary}
+
+Dr Francesco PERONO CACCIAFOCO (Ph.D. University of Pisa, Pisa, Italy, 2011), ΣΞ, is, currently, an Associate Professor in Linguistics at Xi'an Jiaotong-Liverpool University (XJTLU), School of Humanities and Social Sciences (HSS), Department of Applied Linguistics (LNG), Suzhou, China, where he teaches Historical Linguistics, Language Documentation, and History of English. Before joining XJTLU, he was a Senior Lecturer in Historical Linguistics at Nanyang Technological University (NTU), Singapore. More information about his academic work can be found here, <https://scholar.xjtlu.edu.cn/en/persons/FrancescoPerono>.
+
 ::::
 ::::::
