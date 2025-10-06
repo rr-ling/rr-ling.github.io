@@ -5,6 +5,8 @@ project:
 website:
   title: "RRLing"
   navbar:
+    background: "#55448A"
+    logo: img/rrling-logo-bg.png
     left:
       - href: index.qmd
         text: Home

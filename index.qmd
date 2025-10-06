@@ -1,6 +1,8 @@
 ---
-title: "RRLing"
+title: "Registered Reports in Linguistics Network"
 ---
+
+![](img/rrling-logo-bg.png){fig-align="center" width="100"}
 
 This is the website of the *Registered Reports in Linguistics* Network. You can find information on the RRLing team on our [Meet the team](team.qmd) page.
 
