@@ -2,6 +2,6 @@
 title: "RRLing"
 ---
 
-This is a Quarto website.
+This is the website of the *Registered Reports in Linguistics* Network. You can find information on the RRLing team on our [Meet the team](team.qmd) page.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+For **submissions to the RRLing journal**, please see the journal's website: <https://journals.ed.ac.uk/rrling/index>.

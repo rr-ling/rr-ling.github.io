@@ -5,6 +5,26 @@ page-layout: full
 
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
+![](img/avatars/josephvcasillas.png){.avatar}
+
+**Joseph Casillas**\
+Associate Editor\
+[{{< iconify solar home-bold-duotone >}}](https://www.jvcasillas.com/about.html) [{{< iconify academicons orcid >}}](https://orcid.org/0000-0001-8735-9910)
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} Rutgers University (USA)]{.badge .rounded-pill .bg-primary}
+
+Joseph is an Associate Professor of Spanish Linguistics in the Spanish and Portuguese Department and Associate Faculty in the Department of Linguistics at Rutgers University, New Brunswick. His main interests are in phonetics, laboratory phonology, and second language acquisition. A principle aim of his research is to better understand the relationship between language use and sound representation in the multilingual mind, as well as the structure of sound systems in human languages. Most of his research is conducted on bilinguals of varying proficiency and linguistic experience. Some of his recent projects have centered on native phonetic experience and its influence on L2 speech production, perception and lexical processing. He focuses his attention on coding, statistical analysis, data visualization, and reproducible research, as well as training researchers to implement open research practices in the speech sciences, particularly in Bilingualism/Second Language Acquisition research. He also enjoys playing music, Casio watches and anything related to el andalú. 
+
+
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
 ![](img/avatars/stefanocoretta.png){.avatar}
 
 **Stefano Coretta**\
@@ -67,12 +87,14 @@ Chief Editor
 :::: g-col-8
 [{{< iconify solar earth-bold-duotone >}} University of Liverpool (UK)]{.badge .rounded-pill .bg-primary}
 
-Bio
+Jessica Hampton is Lecturer in English Language and Linguistics at the University of Liverpool. Her research explores minoritized groups and endangered languages at the intersection of place, identity, and belonging from an environmental perspective. She is working on a monograph, Ecolinguistics and Endangered Languages: Emplacing Ecological Wisdom through Language Revitalisation, as part of the Bloomsbury Advances in Ecolinguistics series. She is also co-leading the first-of-its-kind survey on the vitality of the languages of northern Italy and serves as the committee member responsible for the BA-funded project aimed at expanding a picture database called MULTIPIC.  
 
 ::: {.callout-note collapse="true"}
 ## Positionality
 
-Test
+I position myself as an ecological sociolinguist whose work is grounded in the exploration of minoritised knowledge systems, including languages, and in the recognition of their vital role in shaping more sustainable and compassionate ways of being. My intellectual and ethical trajectory is inseparable from my personal history: as a first-generation academic raised in conditions of struggle and within minoritised worldviews, I have developed a heightened sensitivity to issues of social and ecological justice.
+My work is guided by a more-than-human ontoepistemology, one that understands knowledge as co-created within entanglements of humans and the more-than-human world. This orientation challenges anthropocentric hierarchies and invites attention to the semiotic, material, and affective relationships that sustain life.
+Central to my worldview is an ecosophy of compassion—a commitment to fostering empathy and care across species, spaces, and subjectivities. Through this lens, I see my research as an act of care: an attempt to contribute to the re-storying of our world in ways that honour diversity, interdependence, and justice.
 :::
 ::::
 ::::::
@@ -99,6 +121,7 @@ I am an Associate Professor in English Language and Linguistics at the Universit
 
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
+![](img/avatars/danangsatrianugraha.png){.avatar}
 
 **Danang Satria Nugraha**\
 Associate Editor
@@ -107,6 +130,7 @@ Associate Editor
 :::: g-col-8
 [{{< iconify solar earth-bold-duotone >}} Palacký University Olomouc (Czech Republic)]{.badge .rounded-pill .bg-primary}
 
+Danang Satria Nugraha, Ph.D., is an assistant professor at Sanata Dharma University, Indonesia, and a postdoctoral fellow at Palacký University Olomouc, Czech Republic. He earned his Ph.D. in Linguistics from the University of Szeged, Hungary (2025). His research specializes in corpus linguistics and morphology, with publications in Q1 journals. He also serves as a peer reviewer for several international journals.
 ::::
 ::::::
 
@@ -140,6 +164,8 @@ Mariam is fluent in English and has some ability to communicate in Arabic. Her b
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
 
+![](img/avatars/FrancescoPeronoCacciafoco.png){.avatar}
+
 **Francesco Perono Cacciafoco**\
 Associate Editor
 :::
@@ -147,7 +173,7 @@ Associate Editor
 :::: g-col-8
 [{{< iconify solar earth-bold-duotone >}} Xi'an Jiaotong-Liverpool University (China)]{.badge .rounded-pill .bg-primary}
 
-Dr Francesco PERONO CACCIAFOCO (Ph.D. University of Pisa, Pisa, Italy, 2011), ΣΞ, is, currently, an Associate Professor in Linguistics at Xi'an Jiaotong-Liverpool University (XJTLU), School of Humanities and Social Sciences (HSS), Department of Applied Linguistics (LNG), Suzhou, China, where he teaches Historical Linguistics, Language Documentation, and History of English. Before joining XJTLU, he was a Senior Lecturer in Historical Linguistics at Nanyang Technological University (NTU), Singapore. More information about his academic work can be found here, <https://scholar.xjtlu.edu.cn/en/persons/FrancescoPerono>.
+Dr Francesco Perono Cacciafoco (Ph.D. University of Pisa, Pisa, Italy, 2011), ΣΞ, is, currently, an Associate Professor in Linguistics at Xi'an Jiaotong-Liverpool University (XJTLU), School of Humanities and Social Sciences (HSS), Department of Applied Linguistics (LNG), Suzhou, China, where he teaches Historical Linguistics, Language Documentation, and History of English. Before joining XJTLU, he was a Senior Lecturer in Historical Linguistics at Nanyang Technological University (NTU), Singapore. More information about his academic work can be found here, <https://scholar.xjtlu.edu.cn/en/persons/FrancescoPerono>.
 
 ::::
 ::::::
