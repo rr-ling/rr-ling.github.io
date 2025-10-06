@@ -78,6 +78,26 @@ In sum, his positionality can be characterized as that of a linguist and transla
 
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
+
+
+**Victoria Beatrix Fendel**\
+Associate Editor\
+[{{< iconify academicons orcid >}}](https://orcid.org/0000-0001-6302-3726)
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} University of Oxford (UK)]{.badge .rounded-pill .bg-primary}
+
+Victoria Beatrix Fendel (D.Phil. Oxford, 2018) is a researcher in historical linguistics at the University of Oxford, editor of the Classics section of the Literary Encyclopaedia, and language leader for Ancient Greek in the PARSEME (UniDive COST CA21167) initiative (www.ancientgreekmwe.com). Her research focusses on language contact (Oxford University Press, 2022) and multi-word expressions in literary, epigraphic, and papyrological sources (Language Science Press, 2024; De Gruyter Brill, 2025; OpenBooks, 2026).
+
+
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
 ![](img/avatars/jesshampton.jpg){.avatar}
 
 **Jessica Hampton**\
