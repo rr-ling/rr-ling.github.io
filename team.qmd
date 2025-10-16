@@ -160,6 +160,25 @@ I am an Associate Professor in English Language and Linguistics at the Universit
 
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
+![](img/avatars/stephennichols.jpg){.avatar}
+
+**Stephen Nichols**\
+Associate Editor
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} University of Edinburgh (UK)]{.badge .rounded-pill .bg-primary}
+
+Stephen Nichols is a postdoctoral researcher at the University of Edinburgh. His research focuses on sound change and the interface between phonetics and phonology, with broader interests in linguistic typology and under-documented languages. He received his PhD from the University of Manchester in 2021 with a thesis examining vowel height harmony in five-vowel Bantu languages. He is currently engaged in a project exploring issues relating the life cycle of phonological processes using both existing and newly-collected phonetic and phonological data from several Turkic languages, including Turkish, Azerbaijani and Dolgan. He has also worked on various other languages including Albanian, Amuzgo and Ihanzu.
+
+
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
 ![](img/avatars/danangsatrianugraha.png){.avatar}
 
 **Danang Satria Nugraha**\
