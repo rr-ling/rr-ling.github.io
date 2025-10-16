@@ -163,7 +163,8 @@ I am an Associate Professor in English Language and Linguistics at the Universit
 ![](img/avatars/stephennichols.jpg){.avatar}
 
 **Stephen Nichols**\
-Associate Editor
+Associate Editor\
+[{{< iconify solar home-bold-duotone >}}](https://www.stephen-nichols.me/) [{{< iconify academicons orcid >}}](https://orcid.org/0000-0001-8918-1474)
 :::
 
 :::: g-col-8
