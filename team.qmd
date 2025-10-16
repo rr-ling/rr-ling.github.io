@@ -123,6 +123,25 @@ Central to my worldview is an ecosophy of compassion—a commitment to fostering
 
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
+![](img/avatars/haesung.png){.avatar}
+
+**Hae-Sung Jeon**\
+Associate Editor
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} University of Central Lancashir (UK)]{.badge .rounded-pill .bg-primary}
+
+Hae-Sung Jeon is a Senior Lecturer in Psychology at the School of Psychology and Humanities, University of Central Lancashire, UK. As a linguist-cognitive psychologist specialising in speech communication, she holds a Master's in Developmental Linguistics from the University of Edinburgh and earned her PhD in phonetics from the University of Cambridge (2012). Her research focuses on phonetics, multimodal communication, psychology of language, and ageing and language.
+
+
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
 ![](img/avatars/CristinaLastresLopez.jpg){.avatar}
 
 **Cristina Lastres-López**\
