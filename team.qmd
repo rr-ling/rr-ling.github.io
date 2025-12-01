@@ -160,6 +160,25 @@ I am an Associate Professor in English Language and Linguistics at the Universit
 
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
+![](img/avatars/mattimarttinenlarson.jpg){.avatar}
+
+**Matti Marttinen Larsson**\
+Associate Editor\
+[{{< iconify solar home-bold-duotone >}}](https://www.gu.se/en/about/find-staff/mattimarttinenlarsson) [{{< iconify academicons orcid >}}](https://orcid.org/0000-0002-6224-7872)
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} University of Gothenburg (Sweden)]{.badge .rounded-pill .bg-primary}
+
+Matti Marttinen Larsson (PhD, Stockholm University, 2022; Docent, University of Gothenburg, 2025) is an Assistant Professor of Spanish Linguistics at the University of Gothenburg. His research is quantitative and corpus-based, and focuses on language variation and change from a usage-based perspective. His research deals with a wide array of morphosyntactic structures across geographical and historical varieties of Spanish, but he also conducts research on morphosyntactic variation and change in other languages (English, Portuguese, among others). He also conducts research on the use of LLMs in corpus linguistic studies.
+
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
 ![](img/avatars/stephennichols.jpg){.avatar}
 
 **Stephen Nichols**\
