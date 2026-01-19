@@ -199,6 +199,23 @@ Stephen Nichols is a postdoctoral researcher at the University of Edinburgh. His
 
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
+![](img/avatars/carapenrywilliams.JPG){.avatar}
+
+**Cara Penry Williams**\
+Associate Editor
+:::
+
+:::: g-col-8
+[{{< iconify solar earth-bold-duotone >}} University of Derby (UK)]{.badge .rounded-pill .bg-primary}
+
+Cara Penry Williams is a Senior Lecturer in English Language at the University of Derby in the UK. She has a master’s degree in applied linguistics and a PhD in linguistics from the University of Melbourne, Australia. Her research draws on diverse traditions of qualitative and quantitative methods with a focus on sociolinguistic issues and discourse analysis. Her publications include *Folklinguistics and social meaning in Australian English* (2019, Routledge) and *Discovering intercultural communication: From language users to language use* with Hyejeong Kim (2021, Palgrave Macmillan).
+::::
+::::::
+
+------------------------------------------------------------------------
+
+:::::: grid
+::: {.g-col-4 style="text-align: center;"}
 ![](img/avatars/danangsatrianugraha.png){.avatar}
 
 **Danang Satria Nugraha**\
