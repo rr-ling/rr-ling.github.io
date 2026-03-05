@@ -181,9 +181,9 @@ Matti Marttinen Larsson (PhD, Stockholm University, 2022; Docent, University of 
 
 :::::: grid
 ::: {.g-col-4 style="text-align: center;"}
-![](){.avatar}
+![](img/avatars/SnehaMishra.jpg){.avatar}
 
-**Sneha Misra**\
+**Sneha Mishra**\
 Associate Editor\
 [{{< iconify solar home-bold-duotone >}}](https://vitdirectory.vit.ac.in/page/faculty/16157) [{{< iconify academicons orcid >}}](https://orcid.org/0000-0002-8316-1453)
 :::
@@ -191,6 +191,15 @@ Associate Editor\
 :::: g-col-8
 [{{< iconify solar earth-bold-duotone >}} Vellore Institute of Technology (India)]{.badge .rounded-pill .bg-primary} [sociolinguistics]{.badge .rounded-pill .bg-success} [linguistic landscape]{.badge .rounded-pill .bg-success} [multilingualism]{.badge .rounded-pill .bg-success} [translanguaging]{.badge .rounded-pill .bg-success} [endangered languages]{.badge .rounded-pill .bg-success}
 
+Sneha Mishra is an Assistant Professor of English at the School of Social Sciences and Languages, Vellore Institute of Technology (VIT), Vellore, India. She holds a Ph.D. in Linguistics from the Indian Institute of Technology (Indian School of Mines), Dhanbad, where her doctoral research documented the Gulgulia language, an endangered speech variety of eastern India. Her research interests lie at the intersection of linguistic landscapes, societal multilingualism, and endangered language documentation. She has published in Journal of Multilingual and Multicultural Development, International Journal of Multilingualism, and Linguistic Landscape, among others. At VIT, she teaches English for Researchers, Technical Report Writing, and Technical English Communication, mentors doctoral scholars, and contributes to institutional initiatives on research and communication pedagogy.
+
+::: {.callout-note collapse="true"}
+## Positionality
+
+I position myself as an ecological sociolinguist whose work is grounded in the exploration of minoritised knowledge systems, including languages, and in the recognition of their vital role in shaping more sustainable and compassionate ways of being. My intellectual and ethical trajectory is inseparable from my personal history: as a first-generation academic raised in conditions of struggle and within minoritised worldviews, I have developed a heightened sensitivity to issues of social and ecological justice.
+My work is guided by a more-than-human ontoepistemology, one that understands knowledge as co-created within entanglements of humans and the more-than-human world. This orientation challenges anthropocentric hierarchies and invites attention to the semiotic, material, and affective relationships that sustain life.
+Central to my worldview is an ecosophy of compassion—a commitment to fostering empathy and care across species, spaces, and subjectivities. Through this lens, I see my research as an act of care: an attempt to contribute to the re-storying of our world in ways that honour diversity, interdependence, and justice.
+:::
 
 ::::
 ::::::
